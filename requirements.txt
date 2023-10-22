@@ -1,0 +1,9 @@
+qiskit-alice-bob-provider @ git+https://github.com/Alice-Bob-SW/qiskit-alice-bob-provider@logical
+jupyter
+matplotlib
+tqdm
+pylatexenc
+pymatching
+tweedledum
+scikit-learn
+qiskit-algorithms
