@@ -1,4 +1,7 @@
 qiskit-alice-bob-provider==0.4.1
+qiskit==0.44.3
+qiskit-aer==0.12.2
+qiskit-terra==0.25.3
 jupyter==1.0.0
 matplotlib==3.8.0
 tqdm==4.66.1
