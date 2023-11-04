@@ -1,4 +1,4 @@
-qiskit-alice-bob-provider==0.4.0
+qiskit-alice-bob-provider==0.4.1
 jupyter==1.0.0
 matplotlib==3.8.0
 tqdm==4.66.1
