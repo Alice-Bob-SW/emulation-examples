@@ -93,9 +93,10 @@ pyzmq==25.1.1
 qiskit==0.44.3
 qiskit-aer==0.12.2
 qiskit-algorithms==0.2.1
-qiskit-alice-bob-provider==0.4.1
-qiskit-qir-alice-bob-fork==0.3.2b0
+qiskit-alice-bob-provider==0.5.3
+qiskit-qir-alice-bob-fork==0.3.2c0
 qiskit-terra==0.25.3
+qrisp==0.4.4
 qtconsole==5.5.0
 QtPy==2.4.1
 referencing==0.30.2
