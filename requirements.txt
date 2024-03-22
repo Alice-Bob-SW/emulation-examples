@@ -66,6 +66,7 @@ notebook-shim==0.2.3
 numpy==1.26.1
 overrides==7.4.0
 packaging==23.2
+pandas==2.2.1
 pandocfilters==1.5.0
 parso==0.8.3
 pbr==5.11.1
@@ -93,9 +94,10 @@ pyzmq==25.1.1
 qiskit==0.44.3
 qiskit-aer==0.12.2
 qiskit-algorithms==0.2.1
-qiskit-alice-bob-provider==0.4.1
-qiskit-qir-alice-bob-fork==0.3.2b0
+qiskit-alice-bob-provider==0.5.3
+qiskit-qir-alice-bob-fork==0.3.2rc0
 qiskit-terra==0.25.3
+qrisp==0.4.4
 qtconsole==5.5.0
 QtPy==2.4.1
 referencing==0.30.2
