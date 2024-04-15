@@ -18,3 +18,16 @@ python -m venv venv
 pip install -r requirements.txt
 python -m jupyter notebook
 ```
+
+
+## Running emulator example notebooks on qBraid
+
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/Alice-Bob-SW/emulation-examples.git)
+
+To launch the example notebooks on qBraid, click the Launch on qBraid button. It will take you to your qBraid Lab with the repository cloned.
+From the FILES tab in the left sidebar, double-click on the `emulation-examples` directory, if you are not there already.
+Open a notebook using the Filebroswer extension on the left panel.
+Use the `alice & bob` environment which has the correct python packages to run the notebook.
+You are now ready to run the example notebooks without tedious pip installs!
+
+For other questions or additional help using qBraid, see [Lab Docs](docs.qbraid.com).
