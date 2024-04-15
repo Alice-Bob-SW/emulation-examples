@@ -24,10 +24,10 @@ python -m jupyter notebook
 
 [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/Alice-Bob-SW/emulation-examples.git)
 
-To launch the example notebooks on qBraid, click the Launch on qBraid button. It will take you to your qBraid Lab with the repository cloned.
-From the FILES tab in the left sidebar, double-click on the `emulation-examples` directory, if you are not there already.
-Open a notebook using the Filebroswer extension on the left panel.
-Use the `alice & bob` environment which has the correct python packages to run the notebook.
-You are now ready to run the example notebooks without tedious pip installs!
+1. To launch the example notebooks on qBraid, click the Launch on qBraid button. It will take you to your qBraid Lab with the repository cloned.
+2. From the FILES tab in the left sidebar, double-click on the `emulation-examples` directory, if you are not there already.
+3. Open a notebook using the Filebroswer extension on the left panel.
+4. Use the `alice & bob` environment which has the correct python packages to run the notebook.
+5. You are now ready to run the example notebooks without tedious pip installs!
 
 For other questions or additional help using qBraid, see [Lab Docs](docs.qbraid.com).
